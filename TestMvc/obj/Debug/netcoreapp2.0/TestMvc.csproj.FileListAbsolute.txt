@@ -1,0 +1,11 @@
+/Users/pgane2/Projects/TestMvc/TestMvc/bin/Debug/netcoreapp2.0/TestMvc.deps.json
+/Users/pgane2/Projects/TestMvc/TestMvc/bin/Debug/netcoreapp2.0/TestMvc.runtimeconfig.json
+/Users/pgane2/Projects/TestMvc/TestMvc/bin/Debug/netcoreapp2.0/TestMvc.runtimeconfig.dev.json
+/Users/pgane2/Projects/TestMvc/TestMvc/bin/Debug/netcoreapp2.0/TestMvc.dll
+/Users/pgane2/Projects/TestMvc/TestMvc/bin/Debug/netcoreapp2.0/TestMvc.pdb
+/Users/pgane2/Projects/TestMvc/TestMvc/obj/Debug/netcoreapp2.0/TestMvc.csprojResolveAssemblyReference.cache
+/Users/pgane2/Projects/TestMvc/TestMvc/obj/Debug/netcoreapp2.0/TestMvc.csproj.CoreCompileInputs.cache
+/Users/pgane2/Projects/TestMvc/TestMvc/obj/Debug/netcoreapp2.0/TestMvc.AssemblyInfoInputs.cache
+/Users/pgane2/Projects/TestMvc/TestMvc/obj/Debug/netcoreapp2.0/TestMvc.AssemblyInfo.cs
+/Users/pgane2/Projects/TestMvc/TestMvc/obj/Debug/netcoreapp2.0/TestMvc.dll
+/Users/pgane2/Projects/TestMvc/TestMvc/obj/Debug/netcoreapp2.0/TestMvc.pdb
